@@ -18,6 +18,6 @@ JAVASCRIPT
 
 **Live Project**
 
-https://aiswariyasekhar.github.io/Password_strength_checker/
+(https://aiswariyasekhar.github.io/BYTEUPRISE_INTERNSHIP_CYBERSECURITY_01/)
 
 
