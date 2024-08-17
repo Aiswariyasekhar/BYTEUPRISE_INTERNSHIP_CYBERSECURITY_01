@@ -18,6 +18,4 @@ JAVASCRIPT
 
 **Live Project**
 
-(https://aiswariyasekhar.github.io/BYTEUPRISE_INTERNSHIP_CYBERSECURITY_01/)
-
-
+https://aiswariyasekhar.github.io/BYTEUPRISE_INTERNSHIP_CYBERSECURITY_01/
