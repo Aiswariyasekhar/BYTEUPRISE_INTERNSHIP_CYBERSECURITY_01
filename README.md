@@ -16,4 +16,8 @@ CSS
 
 JAVASCRIPT
 
+**Live Project**
+
+https://aiswariyasekhar.github.io/Password_strength_checker/
+
 
